@@ -1,0 +1,19 @@
+id: AC4742C40
+title: 'Mātṛceṭa: Varṇārhavarṇastotra'
+type: translation
+pechas:
+- IEB7930DE
+- I3B7E67E0
+- IFE688AD0
+source_metadata:
+  languages:
+  - bo
+  - de
+  - sa
+  datatype: PlainText
+  created_at: 2023-02-08 16:07:38.108262
+  last_modified_at: 2023-02-08 16:07:38.108285
+alignment_to_base:
+  IEB7930DE/1F4A: '6641'
+  I3B7E67E0/034E: '6641'
+  IFE688AD0/8189: '6641'
